@@ -1,0 +1,10 @@
+THE MIT LICENSE (MIT)
+
+(c)Copyright Kid Genius 2020-2021
+
+this is an open source program, so permission is hereby granted, free of charge , to copy, modify, and/or sell this program.
+
+I wrote the code which makes my app work.But the code used to make the GUI and other functions were from the modules
+Kivy and Kivymd which use sdl2, glew, pygments, docutils which were not written by me. They are dependencies which are needed by kivy and kivymd to work.
+These dependecies may be copyrighted, so to confirm, I did not write the code to for those programs/dependencies
+If you are not satisfied with this license, please consult me before taking any legal action, I will gladly take down the app
